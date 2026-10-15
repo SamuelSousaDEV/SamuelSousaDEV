@@ -30,4 +30,4 @@ Open to remote opportunities · Fluent in English and Portuguese
 
 ### Find me
 
-[Portfolio](https://samuelsousadev.com.br/) · [LinkedIn](https://www.linkedin.com/in/samusousaa) · [Email](mailto:samusousadev@zohomail.com)
+[Portfolio](https://samuelsousadev.com.br/) · [LinkedIn](https://www.linkedin.com/in/samusousaa) · `samusousadev@zohomail.com`
