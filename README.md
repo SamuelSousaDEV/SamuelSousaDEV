@@ -1,13 +1,13 @@
-# Hi, I'm Samuel 👋
+# Hi, I'm Samuel 
 
 **Full-Stack Developer** from Brazil, building production web apps with **TypeScript, React, Next.js and Supabase**.
 I like shipping real products for real people — from database design to clean, mobile-first interfaces.
 
-🌎 Open to remote opportunities · 💬 Fluent in English and Portuguese
+Open to remote opportunities · Fluent in English and Portuguese
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -18,7 +18,7 @@ I like shipping real products for real people — from database design to clean,
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Languages:** TypeScript · JavaScript · SQL
 **Front-end:** React · Next.js · Vite · Tailwind CSS · shadcn/ui
@@ -28,6 +28,6 @@ I like shipping real products for real people — from database design to clean,
 
 ---
 
-### 📫 Find me
+### Find me
 
 [Portfolio](#) · [LinkedIn](#) · [Email](mailto:you@example.com)
